@@ -1,4 +1,4 @@
-# LILO-Lind.
+# LILO
 Hello
 # https://tea.xyz/what-is-this-file
 ---
